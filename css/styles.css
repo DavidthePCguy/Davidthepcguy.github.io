@@ -1712,9 +1712,9 @@ text-shadow: 1px 0px 25px rgba(0, 0, 0, 1);
     padding-right: 15px; } }
 
 .logo {
-  width: 160px;
+  width: 200px;
   height: 95px;
-  background: url(../img/cbslogo.png) 50% 50% no-repeat;
+  background: url(../img/2.png) 50% 50% no-repeat;
   display: inline-block;
   float: left;
   -webkit-transition: all .2s;
